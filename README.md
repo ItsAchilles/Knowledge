@@ -1,2 +1,2 @@
 # Knowledge
-Writing about learning
+Learn. Write.
